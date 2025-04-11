@@ -21,6 +21,11 @@ const API_SITES = {
         name: '黑木耳',
         detail: 'https://heimuer.tv'
     },
+		 bfzy: {
+        api: 'https://bfzyapi.com',
+        name: '暴风资源',
+        detail: 'https://bfzyapi.com'
+    },
     ffzy: {
         api: 'http://ffzy5.tv',
         name: '非凡影视',
@@ -54,6 +59,63 @@ const API_SITES = {
     dbzy: {
         api: 'https://dbzy.com',
         name: '豆瓣资源',
+    }, 
+		 wjzy: {
+        api: 'https://api.wujinapi.me',
+        name: '无尽资源',
+        detail: 'https://api.wujinapi.me'
+    },
+
+	 ryzy: {
+        api: 'https://cj.rycjapi.com',
+        name: '如意资源',
+        detail: 'https://cj.rycjapi.com'
+    },
+
+     mzzy: {
+        api: 'https://mozhuazy.com',
+        name: '魔爪资源',
+        detail: 'https://mozhuazy.com'
+    },
+	
+     yiwuzy: {
+        api: 'https://155api.com',
+        name: '155资源',
+        detail: 'https://155api.com'
+    },
+    jkzy: {
+        api: 'https://jkunzyapi.com',
+        name: '爱坤资源',
+        detail: 'https://jkunzyapi.com',
+    }, 
+        thzy: {
+        api: 'https://thzy1.me',
+        name: '桃花资源',
+        detail: 'https://thzy1.me',
+    }, 
+	
+	        slzy: {
+        api: 'https://beiyong.slapibf.com',
+        name: '森林资源',
+        detail: 'https://beiyong.slapibf.com',
+    }, 
+	
+	        syzy: {
+        api: 'https://shayuapi.com',
+        name: '鲨鱼资源',
+        detail: 'https://shayuapi.com',
+    }, 
+	
+	        nxxzy: {
+        api: 'https://naixxzy.com',
+        name: '奶香香资源',
+        detail: 'https://naixxzy.com',
+    },
+	
+	        hgzy: {
+        api: 'https://www.avre06.com',
+        name: '黄瓜资源',
+        detail: 'https://www.avre06.com',
     }
 };
 
